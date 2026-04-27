@@ -32,4 +32,4 @@
 16. See ```part2-question16.js```
 17. The function ```modifyArray``` runs the function provided by ```callback``` on the values 1, 2, and 3, and stores the return values of ```callback``` on each of those values inside of ```newArr```. In this case, the callback function returns the value multiplied by 2, so ```newArr``` contains the values 2, 4, and 6.
 18. See ```part2-question18.js```
-19. 1 <br> 4 <br> 3 <br> 2
+19. ```1``` <br> ```4``` <br> ```3``` <br> ```2```
