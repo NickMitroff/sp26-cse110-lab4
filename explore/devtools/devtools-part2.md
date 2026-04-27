@@ -1,0 +1,2 @@
+1. The bug is that ```num1``` and ```num2``` are stored as strings. When we try to add them together, the result is a concatenated string. For example, if the inputs are 2 and 3, ```result``` is set to the string "23".
+2. To fix this, we can use ```Number()``` to convert the values of the input fields into numbers before assigning them to ```num1``` and ```num2```.
